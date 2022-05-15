@@ -1,0 +1,20 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[submodule]
+	active = .
+[remote "e-comerce"]
+	url = https://github.com/mestek86/e-commerce
+	fetch = +refs/heads/*:refs/remotes/e-comerce/*
+[remote "github"]
+	url = https://github.com/mestek86/my_proj.git
+	fetch = +refs/heads/*:refs/remotes/github/*
+[branch "master"]
+	remote = github
+	merge = refs/heads/master
+[lfs]
+	repositoryformatversion = 0
