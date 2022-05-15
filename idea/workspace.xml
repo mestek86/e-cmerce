@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e146aede-d14b-4bf0-a48e-e487a2fd2f3d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/ant.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Environment Variables _ NOHA.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Maven External Libraries (1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Maven External Libraries (2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Maven External Libraries (3).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Maven External Libraries (4).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Maven Repository_Cucumber Core _ NOHA.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Maven Repository_Cucumber Java _ NOHA.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Maven Repository_Cucumber TestNG _ NOHA.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Maven Repository_Selenium Java _ NOHA.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Maven Repository_TestNG _ NOHA.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Maven Repository_WebDriverManager _ NOHA.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Maven Repository_slf4j-api _ NOHA.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Maven Repository_slf4j-simple _ NOHA.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Maven project settings _ NOHA.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Plugin Cucumber _ NOHA.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Plugin Gherkin _ NOHA.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/NOHA_Cucumber Feature_1 Report.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/NOHA_Cucumber Feature_10 Report.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/NOHA_Cucumber Feature_11 Report.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/NOHA_Cucumber Feature_12 Report.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/NOHA_Cucumber Feature_2 Report.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/NOHA_Cucumber Feature_3 Report.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/NOHA_Cucumber Feature_4 Report.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/NOHA_Cucumber Feature_5 Report.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/NOHA_Cucumber Feature_6 Report.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/NOHA_Cucumber Feature_7 Report.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/NOHA_Cucumber Feature_8 Report.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/NOHA_Cucumber Feature_9 Report.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/NOHA_Cucumber Final Report.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/NOHA_Cucumber TAG Report.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/Ecommerce_Project-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/classes/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/classes/features/F01_Registration.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/classes/features/F02_Login.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/classes/features/F03_RestPassword.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/classes/features/F04_Search.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/classes/features/F05_SwitchCurrency.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/classes/features/F06_Categories.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/classes/features/F07_FilterColor.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/classes/features/F08_SelectTags.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/classes/features/F09_CompareList.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/classes/features/F10_Wishlist.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/classes/features/F11_ShoppingCart.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/classes/features/F12_OrderCheckout.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/cucumber-html-reports/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/cucumber-html-reports/css/cucumber.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/cucumber-html-reports/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/cucumber-html-reports/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/cucumber-html-reports/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/cucumber-html-reports/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/cucumber-html-reports/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/cucumber-html-reports/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/cucumber-html-reports/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/cucumber-html-reports/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/cucumber-html-reports/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/cucumber-html-reports/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/cucumber-html-reports/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/cucumber-html-reports/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/cucumber-html-reports/images/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/cucumber-html-reports/js/Chart.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/cucumber-html-reports/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/cucumber-html-reports/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/cucumber-html-reports/js/jquery.tablesorter.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/cucumber-html-reports/js/moment.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/cucumber-html-reports/overview-failures.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/cucumber-html-reports/overview-features.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/cucumber-html-reports/overview-steps.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/cucumber-html-reports/overview-tags.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/cucumber-html-reports/report-feature_10_1028293219.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/cucumber-html-reports/report-feature_11_3983171272.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/cucumber-html-reports/report-feature_1_2673032606.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/cucumber-html-reports/report-feature_2222670899.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/cucumber-html-reports/report-feature_2_186974535.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/cucumber-html-reports/report-feature_3_2446315007.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/cucumber-html-reports/report-feature_4_1586180507.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/cucumber-html-reports/report-feature_5_2262794033.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/cucumber-html-reports/report-feature_6_472325125.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/cucumber-html-reports/report-feature_7_1359854600.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/cucumber-html-reports/report-feature_8_2782377823.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/cucumber-html-reports/report-feature_9_12613217.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/cucumber-html-reports/report-tag_4089311534.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/cucumber.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/cucumber.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/cukes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/rerun.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/surefire-reports/Runner.TestRunner.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/surefire-reports/Surefire suite/Surefire test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/surefire-reports/Surefire suite/Surefire test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/surefire-reports/TEST-Runner.TestRunner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/surefire-reports/bullet_point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/surefire-reports/collapseall.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/surefire-reports/emailable-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/surefire-reports/failed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/surefire-reports/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/surefire-reports/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/surefire-reports/junitreports/TEST-Runner.TestRunner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/surefire-reports/navigator-bullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/surefire-reports/old/Surefire suite/Surefire test.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/surefire-reports/old/Surefire suite/classes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/surefire-reports/old/Surefire suite/groups.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/surefire-reports/old/Surefire suite/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/surefire-reports/old/Surefire suite/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/surefire-reports/old/Surefire suite/methods-alphabetical.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/surefire-reports/old/Surefire suite/methods-not-run.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/surefire-reports/old/Surefire suite/methods.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/surefire-reports/old/Surefire suite/reporter-output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/surefire-reports/old/Surefire suite/testng.xml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/surefire-reports/old/Surefire suite/toc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/surefire-reports/old/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/surefire-reports/passed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/surefire-reports/skipped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/surefire-reports/testng-reports.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/surefire-reports/testng-reports.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/surefire-reports/testng-reports1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/surefire-reports/testng-reports2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/surefire-reports/testng-results.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/surefire-reports/testng.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/test-classes/Pages/P10_WishlistPageElements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/test-classes/Pages/P11_ShoppCartPageElements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/test-classes/Pages/P12_OrderCheckPageElements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/test-classes/Pages/P1_RegistrationPageElements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/test-classes/Pages/P2_LoginPageElements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/test-classes/Pages/P3_RestPassPageElements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/test-classes/Pages/P4_SearchPageElements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/test-classes/Pages/P5_SwitchCurrPageElements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/test-classes/Pages/P6_CategoriesPageElements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/test-classes/Pages/P7_FilterColorPageElements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/test-classes/Pages/P8_SelectTagsPageElements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/test-classes/Pages/P9_CompareListPageElements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/test-classes/Pages/Page_Base.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/test-classes/Runner/TestRunner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/test-classes/step_definitions/C10_WishlistStepDefinitions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/test-classes/step_definitions/C11_ShoppingCartStepDefinitions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/test-classes/step_definitions/C12_OrderCheckoutStepDefinitions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/test-classes/step_definitions/C1_RegistrationStepDefinitions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/test-classes/step_definitions/C2_LoginStepDefinitions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/test-classes/step_definitions/C3_RestPasswordStepDefinitions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/test-classes/step_definitions/C4_SearchStepDefinitions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/test-classes/step_definitions/C5_SwitchCurrencyStepDefinitions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/test-classes/step_definitions/C6_CategoriesStepDefinitions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/test-classes/step_definitions/C7_FilterColorStepDefinitions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/test-classes/step_definitions/C8_SelectTagsStepDefinitions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/test-classes/step_definitions/C9_CompareListStepDefinitions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_NOHA/Test Execution Report _ NOHA/target/test-classes/step_definitions/Hooks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/P10_WishlistPageElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/P10_WishlistPageElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/P11_ShoppCartPageElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/P11_ShoppCartPageElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/P12_OrderCheckPageElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/P12_OrderCheckPageElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/P1_RegistrationPageElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/P1_RegistrationPageElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/P2_LoginPageElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/P2_LoginPageElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/P3_RestPassPageElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/P3_RestPassPageElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/P4_SearchPageElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/P4_SearchPageElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/P5_SwitchCurrPageElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/P5_SwitchCurrPageElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/P6_CategoriesPageElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/P6_CategoriesPageElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/P7_FilterColorPageElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/P7_FilterColorPageElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/P8_SelectTagsPageElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/P8_SelectTagsPageElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/P9_CompareListPageElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/P9_CompareListPageElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/step_definitions/C10_WishlistStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/step_definitions/C10_WishlistStepDefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/step_definitions/C11_ShoppingCartStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/step_definitions/C11_ShoppingCartStepDefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/step_definitions/C12_OrderCheckoutStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/step_definitions/C12_OrderCheckoutStepDefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/step_definitions/C1_RegistrationStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/step_definitions/C1_RegistrationStepDefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/step_definitions/C2_LoginStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/step_definitions/C2_LoginStepDefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/step_definitions/C3_RestPasswordStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/step_definitions/C3_RestPasswordStepDefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/step_definitions/C4_SearchStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/step_definitions/C4_SearchStepDefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/step_definitions/C5_SwitchCurrencyStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/step_definitions/C5_SwitchCurrencyStepDefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/step_definitions/C6_CategoriesStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/step_definitions/C6_CategoriesStepDefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/step_definitions/C7_FilterColorStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/step_definitions/C7_FilterColorStepDefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/step_definitions/C8_SelectTagsStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/step_definitions/C8_SelectTagsStepDefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/step_definitions/C9_CompareListStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/step_definitions/C9_CompareListStepDefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/step_definitions/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/step_definitions/Hooks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cukes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/cukes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/rerun.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/rerun.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/P10_WishlistPageElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Pages/P10_WishlistPageElements.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/P11_ShoppCartPageElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Pages/P11_ShoppCartPageElements.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/P12_OrderCheckPageElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Pages/P12_OrderCheckPageElements.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/P1_RegistrationPageElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Pages/P1_RegistrationPageElements.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/P2_LoginPageElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Pages/P2_LoginPageElements.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/P3_RestPassPageElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Pages/P3_RestPassPageElements.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/P4_SearchPageElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Pages/P4_SearchPageElements.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/P5_SwitchCurrPageElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Pages/P5_SwitchCurrPageElements.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/P6_CategoriesPageElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Pages/P6_CategoriesPageElements.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/P7_FilterColorPageElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Pages/P7_FilterColorPageElements.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/P8_SelectTagsPageElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Pages/P8_SelectTagsPageElements.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/P9_CompareListPageElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Pages/P9_CompareListPageElements.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/Page_Base.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Pages/Page_Base.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Runner/TestRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Runner/TestRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/step_definitions/C10_WishlistStepDefinitions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/step_definitions/C10_WishlistStepDefinitions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/step_definitions/C11_ShoppingCartStepDefinitions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/step_definitions/C11_ShoppingCartStepDefinitions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/step_definitions/C12_OrderCheckoutStepDefinitions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/step_definitions/C12_OrderCheckoutStepDefinitions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/step_definitions/C1_RegistrationStepDefinitions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/step_definitions/C1_RegistrationStepDefinitions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/step_definitions/C2_LoginStepDefinitions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/step_definitions/C2_LoginStepDefinitions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/step_definitions/C3_RestPasswordStepDefinitions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/step_definitions/C3_RestPasswordStepDefinitions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/step_definitions/C4_SearchStepDefinitions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/step_definitions/C4_SearchStepDefinitions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/step_definitions/C5_SwitchCurrencyStepDefinitions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/step_definitions/C5_SwitchCurrencyStepDefinitions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/step_definitions/C6_CategoriesStepDefinitions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/step_definitions/C6_CategoriesStepDefinitions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/step_definitions/C7_FilterColorStepDefinitions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/step_definitions/C7_FilterColorStepDefinitions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/step_definitions/C8_SelectTagsStepDefinitions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/step_definitions/C8_SelectTagsStepDefinitions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/step_definitions/C9_CompareListStepDefinitions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/step_definitions/C9_CompareListStepDefinitions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/step_definitions/Hooks.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/step_definitions/Hooks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/BrowserUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utilities/BrowserUtils.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="29B40cpuQL26QheFtiVMdjXv7p1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="&lt;default&gt;" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Ecommerce_Project" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.&lt;default&gt;" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e146aede-d14b-4bf0-a48e-e487a2fd2f3d" name="Changes" comment="" />
+      <created>1652572926152</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652572926152</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
